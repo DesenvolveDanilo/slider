@@ -1,0 +1,1 @@
+somente um slider para testar conhecimento e lógica.
